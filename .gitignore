@@ -1,0 +1,4 @@
+node_modules/
+dist/bundle*
+dist/threedy-card*
+yarn-error.log
